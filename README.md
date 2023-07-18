@@ -1,9 +1,9 @@
 # Presentación
 <img align='center' src='http://drive.google.com/uc?export=view&id=1b0McyQzF-lHoIryfvafcNxoTK-LJL50l' height='70px'>
 
-<br />
-
 <hr />
+
+<br />
 
 ## Portafolio de Proyectos
 
@@ -11,6 +11,7 @@
 
 - 💬 Puedes preguntarme sobre **C#, Visual Basic, SQL Server, PL-SQL, SQLite, OnBase, Docuware.**  
 
+<br />
 
 <hr />
 Atte. Guillermo Rodríguez 
