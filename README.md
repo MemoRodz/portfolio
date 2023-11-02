@@ -7,7 +7,7 @@
 
 ## Portafolio de Proyectos
 
-- 🌱 Actualmente estoy aprendiendo sobre **Javascript, Node.Js, React, React-Redux, Express, Sequelize, MongoDB, Docker.**  
+- 🌱 Actualmente estoy aprendiendo sobre **Blazor, Razor, Azure DevOps, Javascript, Node.Js, React, React-Redux, Express, Sequelize, MongoDB, Docker.**  
 
 - 💬 Puedes preguntarme sobre **C#, Visual Basic, SQL Server, PL-SQL, SQLite, OnBase, Docuware.**  
 
