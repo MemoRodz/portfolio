@@ -1,5 +1,5 @@
 # Presentación
-<img align='center' src='http://drive.google.com/uc?export=view&id=1b0McyQzF-lHoIryfvafcNxoTK-LJL50l' height='70px'>
+<img align="center" src="http://drive.google.com/uc?export=view&id=1b0McyQzF-lHoIryfvafcNxoTK-LJL50l" height="70px">
 
 <hr />
 
@@ -20,13 +20,13 @@ Atte. Guillermo Rodríguez
 
 <div align="center">
 <a href="https://github.com/memorodz" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="github" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/memosrdz" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt="twitter" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:gmo.rodriguez@gmail.com" target="_blank">
-<img src='./repoimg/icons8-hombre-con-correo-50.png' alt=Email style="margin-bottom: 5px;" />
+<img src="./repoimg/icons8-hombre-con-correo-50.png" alt=Email style="margin-bottom: 5px;" />
 </a>    
 <a href="https://linkedin.com/in/guillermo-rodríguez-74b10039" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" style="margin-bottom: 5px;" />
