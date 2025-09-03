@@ -1,5 +1,5 @@
 # Presentación
-<img align="center" src="http://drive.google.com/uc?export=view&id=1b0McyQzF-lHoIryfvafcNxoTK-LJL50l" alt="GRS Logo" height="70px">
+<img align="center" src="./Logo_GRS.svg" alt="GRS Logo" height="70px">
 
 <hr />
 
