@@ -1,5 +1,5 @@
 # Presentación
-<img align="center" src="./Logo_GRS.svg" alt="GRS Logo" height="70px">
+<img align="center" src="https://firebasestorage.googleapis.com/v0/b/capacitechshop.appspot.com/o/IMAGENES_LOGO%2F1972695b6cde47dba02e07bfa1fd7c45.png?alt=media&token=74b4420a-70c6-458a-a247-c0c7d26937dd" alt="GRS Logo" height="70px">
 
 <hr />
 
